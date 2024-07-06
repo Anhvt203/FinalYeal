@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - enemys
+  - ground
+  - EnemyWall
+  - Enemy
+  - Traps
+  - Gold
+  - DeathZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Wall
+  - Traps
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 527732675
+    locked: 0
+  - name: Traps
+    uniqueID: 2672886757
+    locked: 0
+  - name: Ground
+    uniqueID: 1695052705
+    locked: 0
+  - name: Player
+    uniqueID: 4181878321
+    locked: 0
+  - name: Enemy
+    uniqueID: 2505833853
+    locked: 0
